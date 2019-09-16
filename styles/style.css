@@ -1,0 +1,18 @@
+.menu {
+    width: 100%;
+    font-size: 0rem;
+}
+
+.menu-item {
+    display: inline-block;
+    width: 33%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.menu-item--content {
+    display: block;
+}
+.content-ctn {
+    min-height: 30vh;
+}
